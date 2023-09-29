@@ -4,40 +4,20 @@ h1 {
  text-align: center;
 }
 
-p     {
+span     {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    ; text-align: center;    
+    ; text-align: left;    
     font-size: large;
-}
-
-
-.container {
-    width: 5%;
-    margin: 20px;
-    padding: 20px;
-    background-color: #b86865;
-    border: 5px solid #6b0303;
-    display: inline-block;
-    box-sizing: content-box;
-    vertical-align: top;
+    columns: left;
 }
 
 .image-container img {
-    max-width: 45%; 
+    width: 100%;
     height: auto; 
     border: 2px solid #ccc; 
  float: right;
 }
-
-#a{
-    background-color: aquamarine;
-}
-#b{
-    background-color: rgb(122, 177, 179);
-}
-#c{
-    background-color: burlywood;
-}
-#d{
-    background-color: rgb(137, 160, 35);
-}
+ .container{
+    vertical-align: middle;
+    margin-top: 100px;
+ }
