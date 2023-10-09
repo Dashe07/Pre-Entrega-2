@@ -1,0 +1,12 @@
+main {
+    background: linear-gradient(to bottom, rgb(187, 39, 39), white);
+  }
+
+  .headers th {
+    padding-right: 50px;
+
+}
+
+.headers td{
+    padding-right: 50px;
+}
