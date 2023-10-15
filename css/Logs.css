@@ -1,5 +1,5 @@
 main {
-    background: linear-gradient(to bottom, rgb(187, 39, 39), white);
+    color: black;
   }
 
 h1 {
@@ -7,13 +7,6 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-h2 {
-    color: blueviolet;
-}
-
-p {
-color: aqua;
-}
 
 .headers th {
     padding-right: 50px;
