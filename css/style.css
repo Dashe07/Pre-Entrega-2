@@ -1,9 +1,16 @@
-* {
+main {
   color: black;
 }
 
 main {
   background: linear-gradient(to bottom, rgb(187, 39, 39), white);
+}
+img {
+  width: 1000px;
+  transition: 400ms;
+}
+footer {
+  margin-left: 1130px;
 }
 
 /*# sourceMappingURL=style.css.map */

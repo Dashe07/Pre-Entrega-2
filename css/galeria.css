@@ -8,3 +8,7 @@ img {
 img:hover{
     transform: translate(40px, -40px);
 }
+
+footer {
+    margin-left: 1130px;
+  }
