@@ -2,11 +2,11 @@ main{color: black;}
 
 img {
     width: 500px;
-    transition: 400ms;
+    transition: 150ms;
 }
 
 img:hover{
-    transform: translate(40px, -40px);
+    transform: translate(10px, -10px);
 }
 
 footer {
