@@ -18,6 +18,13 @@ footer {
   margin-left: 1130px;
 }
 
+#Separador {
+  border: 2px solid;
+  margin-bottom: 100px;
+  width: 2060px;
+  color: black;
+}
+
 
 .image-container img {
     width: 100%;
