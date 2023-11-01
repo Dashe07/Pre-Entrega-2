@@ -3,6 +3,7 @@ main{color: black;}
 img {
     width: 500px;
     transition: 150ms;
+    padding: 4px;
 }
 
 img:hover{
