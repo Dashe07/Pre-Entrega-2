@@ -47,12 +47,3 @@ footer {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-
- img {
-  transition: 3600ms;
- }
-
- img:hover {
-  transform: rotateX(360deg);
-
- }
