@@ -3,7 +3,8 @@ main {
 }
 
 main {
-  background: linear-gradient(to bottom, rgb(187, 39, 39), white);
+  background: linear-gradient(to bottom, rgb(187, 39, 39), rgb(253, 253, 253));
+  color: black;
 }
 img {
   width: 1000px;

@@ -1,0 +1,15 @@
+main{color: black;}
+
+img {
+    width: 500px;
+    transition: 150ms;
+    padding: 4px;
+}
+
+img:hover{
+    transform: translate(10px, -10px);
+}
+
+footer {
+    margin-left: 1130px;
+  }
